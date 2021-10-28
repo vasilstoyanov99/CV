@@ -11420,3 +11420,11 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+ol li{
+  list-style-type: none;
+}
+
+a{
+  text-decoration: none;
+}
